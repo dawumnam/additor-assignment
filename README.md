@@ -51,7 +51,7 @@ These are the development dependencies:
 
 ## Authors
 
-[GitHub Profile](https://github.com/{dawumnam})
+[GitHub Profile](https://github.com/dawumnam)
 
 ## License
 
