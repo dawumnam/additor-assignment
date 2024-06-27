@@ -1,4 +1,4 @@
-# Project Title: additor-assignment
+# Project Title: operational-transform-server
 
 ## Prerequisites
 
@@ -13,8 +13,8 @@ To install, follow these steps:
 
 Via github:
 
-1. Clone the repo: `git clone https://github.com/{YOUR_USERNAME}/additor-assignment.git`
-2. Navigate to the project folder: `cd additor-assignment`
+1. Clone the repo: `git clone https://github.com/{YOUR_USERNAME}/operational-transform-server.git`
+2. Navigate to the project folder: `cd operational-transform-server`
 3. Install the dependencies: `npm install`
 
 ## Usage
